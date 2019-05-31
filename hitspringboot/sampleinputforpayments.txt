@@ -1,0 +1,6 @@
+{
+	"creditCardNumber":"0011001100110011",
+	"expiryDate":"19/07",
+	"cvvNumber":"0745",
+	"paymentAddress":"xyz"
+}

@@ -1,0 +1,5 @@
+com\hit\springboot\Application.class
+com\hit\springboot\Product.class
+com\hit\springboot\Payment.class
+com\hit\springboot\PaymentController.class
+com\hit\springboot\HelloController.class
